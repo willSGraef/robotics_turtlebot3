@@ -1,6 +1,6 @@
 # robotics_turtlebot3  
 TurtleBot3 Project for Introduction to Robotics  
-Using an **Ubuntu 22.04** VM with the recommended specs:  
+Using an [**Ubuntu 22.04**](https://releases.ubuntu.com/jammy/) VM with the recommended specs:  
 4 cores  
 8 GB RAM  
 35 GB Disk  
